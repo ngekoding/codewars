@@ -15,5 +15,6 @@ Here is my solutions for some problems on codewars.com. Maybe this is not the be
 9. [Equal Sides Of An Array](./solutions/9-equal-sides-of-an-array.md)
 10. [Shortest Word](./solutions/10-shortest-word.md)
 11. [WeIrD StRiNg CaSe](./solutions/11-weird-string-case.md)
+12. [Help the bookseller!](./solutions/12-help-the-bookseller.md)
 
 Wait for other solutions...
