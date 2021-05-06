@@ -20,5 +20,6 @@ Here is my solutions for some problems on codewars.com. Maybe this is not the be
 14. [Weight for weight](./solutions/14-weight-for-weight.md)
 15. [Reverse or rotate?](./solutions/15-reverse-or-rotate.md)
 16. [Snail](./solutions/16-snail.md)
+17. [Multiples of 3 or 5](./solutions/17-multiples-of-3-or-5.md)
 
 Wait for other solutions...
