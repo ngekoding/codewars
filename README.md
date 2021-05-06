@@ -21,5 +21,6 @@ Here is my solutions for some problems on codewars.com. Maybe this is not the be
 15. [Reverse or rotate?](./solutions/15-reverse-or-rotate.md)
 16. [Snail](./solutions/16-snail.md)
 17. [Multiples of 3 or 5](./solutions/17-multiples-of-3-or-5.md)
+18. [Sudoku Solution Validator](./solutions/18-sodoku-solution-validator.md)
 
 Wait for other solutions...
