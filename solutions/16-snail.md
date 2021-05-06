@@ -18,17 +18,18 @@ snail = function(array) {
   
   while (true) {
     for (let i = first; i <= end; i++) {
-      if (i == first) {
+      if (i == first) { // Add the top side
         let top = array[first].slice(first, end + 1);
         results.push(...top);
-      } else if (i == end) {
+      } else if (i == end) { // Add the bottom side
         let bottom = array[end].slice(first, end + 1).reverse();
         results.push(...bottom);
-      } else {
+      } else { // Add the right side
         results.push(array[i][end]);
       }
     }
     
+    // Add the left side
     if (first != end - 1) {
       for (let i = end - 1; i > first; i--) {
         results.push(array[i][first]);
@@ -43,6 +44,7 @@ snail = function(array) {
     end--;
   }
   
+  // Add the middle only for odd
   if (!isEven) {
     results.push(array[first+1][first+1]);
   }
