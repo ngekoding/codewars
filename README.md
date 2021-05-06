@@ -18,5 +18,6 @@ Here is my solutions for some problems on codewars.com. Maybe this is not the be
 12. [Help the bookseller!](./solutions/12-help-the-bookseller.md)
 13. [Directions Reduction](./solutions/13-directions-reduction.md)
 14. [Weight for weight](./solutions/14-weight-for-weight.md)
+15. [Reverse or rotate?](./solutions/15-reverse-or-rotate.md)
 
 Wait for other solutions...
