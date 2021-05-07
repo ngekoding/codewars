@@ -23,5 +23,6 @@ Here is my solutions for some problems on codewars.com. Maybe this is not the be
 17. [Multiples of 3 or 5](./solutions/17-multiples-of-3-or-5.md)
 18. [Sudoku Solution Validator](./solutions/18-sodoku-solution-validator.md)
 19. [Multiplying numbers as strings](./solutions/19-multiplying-numbers-as-strings.md)
+20. [Moving Zeros To The End](./solutions/20-moving-zeros-to-the-end.md)
 
 Wait for other solutions...
